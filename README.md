@@ -7,6 +7,6 @@
 - ⚡ ¿but u know why picafresa?
 
 <!---
-picafresaa2/picafresaa2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+picafresaa2/picafresaa2 is a ✨ special ✨ repository because its `picafresa.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
